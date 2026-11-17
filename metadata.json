@@ -1,0 +1,8 @@
+{
+  "name": "Kolibrie Studio",
+  "description": "Kolibrie: a small studio for scroll-stopping reels, films and motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
